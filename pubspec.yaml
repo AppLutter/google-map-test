@@ -1,0 +1,45 @@
+name: google_map_practice
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_maps_flutter: ^2.2.5
+  geolocator: ^9.0.2
+  flutter_google_places_sdk: ^0.3.2+8
+  flutter_screenutil: ^5.7.0
+  fluttertoast: ^8.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
